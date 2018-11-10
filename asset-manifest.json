@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.810ae55e.chunk.css",
-  "main.js": "/static/js/main.32f1802a.chunk.js",
-  "main.js.map": "/static/js/main.32f1802a.chunk.js.map",
-  "static/js/1.1a2fe23b.chunk.js": "/static/js/1.1a2fe23b.chunk.js",
-  "static/js/1.1a2fe23b.chunk.js.map": "/static/js/1.1a2fe23b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.810ae55e.chunk.css.map": "/static/css/main.810ae55e.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.abcea8e531561b5836eb2e03b9adf331.js": "/precache-manifest.abcea8e531561b5836eb2e03b9adf331.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/react-gihub-pages-test/static/css/main.810ae55e.chunk.css",
+  "main.js": "/react-gihub-pages-test/static/js/main.c9082ee4.chunk.js",
+  "main.js.map": "/react-gihub-pages-test/static/js/main.c9082ee4.chunk.js.map",
+  "static/js/1.1a2fe23b.chunk.js": "/react-gihub-pages-test/static/js/1.1a2fe23b.chunk.js",
+  "static/js/1.1a2fe23b.chunk.js.map": "/react-gihub-pages-test/static/js/1.1a2fe23b.chunk.js.map",
+  "runtime~main.js": "/react-gihub-pages-test/static/js/runtime~main.9f379601.js",
+  "runtime~main.js.map": "/react-gihub-pages-test/static/js/runtime~main.9f379601.js.map",
+  "static/media/logo.svg": "/react-gihub-pages-test/static/media/logo.5d5d9eef.svg",
+  "static/css/main.810ae55e.chunk.css.map": "/react-gihub-pages-test/static/css/main.810ae55e.chunk.css.map",
+  "index.html": "/react-gihub-pages-test/index.html",
+  "precache-manifest.d813b7148ba75501eca0d6d75253dbef.js": "/react-gihub-pages-test/precache-manifest.d813b7148ba75501eca0d6d75253dbef.js",
+  "service-worker.js": "/react-gihub-pages-test/service-worker.js"
 }
